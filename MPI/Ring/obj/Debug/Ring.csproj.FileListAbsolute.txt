@@ -1,0 +1,9 @@
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\bin\Debug\Ring.exe.config
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\bin\Debug\Ring.exe
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\bin\Debug\Ring.pdb
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\bin\Debug\MPI.dll
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\obj\Debug\Ring.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\obj\Debug\Ring.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\obj\Debug\Ring.csproj.CopyComplete
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\obj\Debug\Ring.exe
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Ring\obj\Debug\Ring.pdb

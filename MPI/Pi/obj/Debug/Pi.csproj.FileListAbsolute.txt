@@ -1,0 +1,18 @@
+C:\Users\Usuario\source\repos\MPI\Pi\bin\Debug\Pi.exe.config
+C:\Users\Usuario\source\repos\MPI\Pi\bin\Debug\Pi.exe
+C:\Users\Usuario\source\repos\MPI\Pi\bin\Debug\Pi.pdb
+C:\Users\Usuario\source\repos\MPI\Pi\bin\Debug\MPI.dll
+C:\Users\Usuario\source\repos\MPI\Pi\obj\Debug\Pi.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MPI\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MPI\Pi\obj\Debug\Pi.csproj.CopyComplete
+C:\Users\Usuario\source\repos\MPI\Pi\obj\Debug\Pi.exe
+C:\Users\Usuario\source\repos\MPI\Pi\obj\Debug\Pi.pdb
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\bin\Debug\Pi.exe.config
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\bin\Debug\Pi.exe
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\bin\Debug\Pi.pdb
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\bin\Debug\MPI.dll
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\obj\Debug\Pi.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\obj\Debug\Pi.csproj.CopyComplete
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\obj\Debug\Pi.exe
+C:\Users\hp\OneDrive - Escuela Politécnica Nacional\2021B\Aplicaciones Distribuidas´\prácticas\practica 5\MPI\Pi\obj\Debug\Pi.pdb
